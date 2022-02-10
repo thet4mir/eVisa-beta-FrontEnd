@@ -1,0 +1,4 @@
+module.exports = {
+    backend_target: 'http://<host>:<port>',
+    backend_secure: true,
+}
